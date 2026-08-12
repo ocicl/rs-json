@@ -4,7 +4,7 @@ Yet another JSON decoder/encoder for Common Lisp
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/ralph-schleicher/rs-json.git   |
-| commit  | ba54bcb  |
+| commit  | be9a3d9  |
 | systems | rs-json |
 |---------+-------------------------------------------|
 
